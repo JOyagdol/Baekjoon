@@ -1,5 +1,5 @@
 # Joyagdol Baekjoon with C++, Python
-🔥 Joyagdol's Baekjun Problem Solving 🔥
+🔥 Joyagdol's Baekjoon Problem Solving 🔥
 
 
 # Baekjoon
